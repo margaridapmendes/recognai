@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import pandas as pd
-conda install -c huggingface -c conda-forge datasets
 # !pip install datasets
 from datasets import load_dataset
 import pandas as pd
