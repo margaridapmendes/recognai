@@ -8,7 +8,8 @@ Original file is located at
 """
 
 import pandas as pd
-pip install datasets
+conda install -c huggingface -c conda-forge datasets
+# !pip install datasets
 from datasets import load_dataset
 import pandas as pd
 dataset = load_dataset("amazon_us_reviews", 'Mobile_Electronics_v1_00')
