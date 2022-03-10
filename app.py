@@ -12,8 +12,8 @@ import time
 # df = pd.read_csv("/Users/nicolasmarechal/Desktop/Final_Tag_Fraud.csv")
 # india = pd.read_csv("/Users/nicolasmarechal/Desktop/India Cities LatLng.csv")
 
-df = pd.read_csv("./Nixon323/recognai/Final_Tag_Fraud.csv")
-india = pd.read_csv("./Nixon323/recognai/India Cities LatLng.csv")
+df = pd.read_csv("Final_Tag_Fraud.csv")
+india = pd.read_csv("India Cities LatLng.csv")
 
 # st.image("/Users/nicolasmarechal/Desktop/IE-University.png", width = 180)
 # st.image("/Users/nicolasmarechal/Desktop/Logo_Horizontal.png", width = 180)
